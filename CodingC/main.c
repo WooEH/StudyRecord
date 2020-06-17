@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    printf("Hello, World!\n");
+int main() {
+    int N;
+    
+    scanf("%d",&N);
+    printf("%d",N);
+    
     return 0;
 }
