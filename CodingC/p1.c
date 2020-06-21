@@ -13,7 +13,7 @@
 //    }
 //
 //    scanf("%d",&N);
-//    while(N!=EOF){
+//    while(!feof(stdin)){
 //        fprintf(fp,"%d\n",N);
 //        scanf("%d",&N);
 //    }

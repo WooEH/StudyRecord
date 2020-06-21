@@ -11,6 +11,15 @@
 		E2A2DE53249CD9A1006FB1F8 /* p3.c in Sources */ = {isa = PBXBuildFile; fileRef = E2A2DE52249CD9A1006FB1F8 /* p3.c */; };
 		E2A2DE55249CE043006FB1F8 /* p4.c in Sources */ = {isa = PBXBuildFile; fileRef = E2A2DE54249CE043006FB1F8 /* p4.c */; };
 		E2A2DE57249CE6FB006FB1F8 /* p1.c in Sources */ = {isa = PBXBuildFile; fileRef = E2A2DE56249CE6FB006FB1F8 /* p1.c */; };
+		E2A2DE5A249CE76E006FB1F8 /* Project_step3.c in Sources */ = {isa = PBXBuildFile; fileRef = E2A2DE59249CE76E006FB1F8 /* Project_step3.c */; };
+		E2F51AA5249DFB0E0076EC8B /* print.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA4249DFB0E0076EC8B /* print.c */; };
+		E2F51AA7249DFB970076EC8B /* insert.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA6249DFB970076EC8B /* insert.c */; };
+		E2F51AA9249DFBD80076EC8B /* delete.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA8249DFBD80076EC8B /* delete.c */; };
+		E2F51AAB249DFC1B0076EC8B /* search.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AAA249DFC1B0076EC8B /* search.c */; };
+		E2F51AAD249DFC650076EC8B /* registreation.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AAC249DFC650076EC8B /* registreation.c */; };
+		E2F51AAF249DFC9B0076EC8B /* exit.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AAE249DFC9B0076EC8B /* exit.c */; };
+		E2F51AB1249DFCC10076EC8B /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AB0249DFCC10076EC8B /* main.c */; };
+		E2F51AB3249DFCFB0076EC8B /* draw.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AB2249DFCFB0076EC8B /* draw.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,7 +39,18 @@
 		E2A2DE52249CD9A1006FB1F8 /* p3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = p3.c; sourceTree = "<group>"; };
 		E2A2DE54249CE043006FB1F8 /* p4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = p4.c; sourceTree = "<group>"; };
 		E2A2DE56249CE6FB006FB1F8 /* p1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = p1.c; sourceTree = "<group>"; };
+		E2A2DE59249CE76E006FB1F8 /* Project_step3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Project_step3.c; sourceTree = "<group>"; };
 		E2CF6297249A8627005FCF6C /* CodingC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingC; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2F51AA0249DF5EC0076EC8B /* my_struct.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = my_struct.h; sourceTree = "<group>"; };
+		E2F51AA1249DF6000076EC8B /* my_header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = my_header.h; sourceTree = "<group>"; };
+		E2F51AA4249DFB0E0076EC8B /* print.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = print.c; sourceTree = "<group>"; };
+		E2F51AA6249DFB970076EC8B /* insert.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = insert.c; sourceTree = "<group>"; };
+		E2F51AA8249DFBD80076EC8B /* delete.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = delete.c; sourceTree = "<group>"; };
+		E2F51AAA249DFC1B0076EC8B /* search.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = search.c; sourceTree = "<group>"; };
+		E2F51AAC249DFC650076EC8B /* registreation.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = registreation.c; sourceTree = "<group>"; };
+		E2F51AAE249DFC9B0076EC8B /* exit.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exit.c; sourceTree = "<group>"; };
+		E2F51AB0249DFCC10076EC8B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		E2F51AB2249DFCFB0076EC8B /* draw.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = draw.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +87,17 @@
 				E2A2DE52249CD9A1006FB1F8 /* p3.c */,
 				E2A2DE54249CE043006FB1F8 /* p4.c */,
 				E2A2DE56249CE6FB006FB1F8 /* p1.c */,
+				E2A2DE59249CE76E006FB1F8 /* Project_step3.c */,
+				E2F51AAA249DFC1B0076EC8B /* search.c */,
+				E2F51AA0249DF5EC0076EC8B /* my_struct.h */,
+				E2F51AA1249DF6000076EC8B /* my_header.h */,
+				E2F51AA4249DFB0E0076EC8B /* print.c */,
+				E2F51AA6249DFB970076EC8B /* insert.c */,
+				E2F51AA8249DFBD80076EC8B /* delete.c */,
+				E2F51AAC249DFC650076EC8B /* registreation.c */,
+				E2F51AAE249DFC9B0076EC8B /* exit.c */,
+				E2F51AB0249DFCC10076EC8B /* main.c */,
+				E2F51AB2249DFCFB0076EC8B /* draw.c */,
 			);
 			path = CodingC;
 			sourceTree = "<group>";
@@ -128,9 +159,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2F51AB3249DFCFB0076EC8B /* draw.c in Sources */,
+				E2F51AAD249DFC650076EC8B /* registreation.c in Sources */,
+				E2F51AA7249DFB970076EC8B /* insert.c in Sources */,
 				E2A2DE55249CE043006FB1F8 /* p4.c in Sources */,
 				E2A2DE51249CD492006FB1F8 /* p2.c in Sources */,
 				E2A2DE57249CE6FB006FB1F8 /* p1.c in Sources */,
+				E2F51AAF249DFC9B0076EC8B /* exit.c in Sources */,
+				E2F51AA9249DFBD80076EC8B /* delete.c in Sources */,
+				E2F51AA5249DFB0E0076EC8B /* print.c in Sources */,
+				E2F51AB1249DFCC10076EC8B /* main.c in Sources */,
+				E2F51AAB249DFC1B0076EC8B /* search.c in Sources */,
+				E2A2DE5A249CE76E006FB1F8 /* Project_step3.c in Sources */,
 				E2A2DE53249CD9A1006FB1F8 /* p3.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
