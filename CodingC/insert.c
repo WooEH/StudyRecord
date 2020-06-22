@@ -9,8 +9,8 @@ void insert(TEL **tel_list, int *count, int max, char *temp){
     int ind=0, flag=0, s_cnt=0;
     int k=0;
     
-    if(temp ==NULL){
-        (*count)++;
+    (*count)++;
+    if(temp==NULL){
         if(*count>max){
             printf("OVERFLOW\n");
             (*count)--;
@@ -67,7 +67,7 @@ void insert(TEL **tel_list, int *count, int max, char *temp){
         strcpy(tel_list[ind]->birth,tmp);
         printf("<<%d>>\n",*count);
     }else {
-        (*count)++;
+        tmp[0]='\0';
         
         tel_list[*count-1]=(TEL *)malloc(sizeof(TEL));
         if(tel_list[*count-1]==NULL){
@@ -75,7 +75,7 @@ void insert(TEL **tel_list, int *count, int max, char *temp){
             return ;
         }
         
-        for(int i=0;i<=strlen(tmp);i++){
+        for(int i=0;i<=strlen(temp);i++){
             if(temp[i]==' '||temp[i]=='\0'){
                 tmp[k]='\0';
                 
@@ -103,7 +103,6 @@ void insert(TEL **tel_list, int *count, int max, char *temp){
                         return ;
                     }
                     strcpy(tel_list[ind]->name,tmp);
-                    s_cnt++;
                 }else if(s_cnt==1){
                     tel_list[ind]->tel_no = (char *)malloc(sizeof(char)*(strlen(tmp)+1));
                     if(tel_list[ind]->tel_no==NULL){
@@ -111,7 +110,6 @@ void insert(TEL **tel_list, int *count, int max, char *temp){
                         return ;
                     }
                     strcpy(tel_list[ind]->tel_no,tmp);
-                    s_cnt++;
                 }else if(s_cnt==2){
                     tel_list[ind]->birth = (char *)malloc(sizeof(char)*(strlen(tmp)+1));
                     if(tel_list[ind]->birth==NULL){
@@ -119,21 +117,16 @@ void insert(TEL **tel_list, int *count, int max, char *temp){
                         return ;
                     }
                     strcpy(tel_list[ind]->birth,tmp);
-                    s_cnt++;
                 }
+                
+                s_cnt++;
                 k=0;
-            }
-            
-            if(temp[i]!=' '&&s_cnt==0){
-                tmp[k] = temp[i];
-                k++;
-            }else if(temp[i]!=' '&&s_cnt==1){
-                tmp[k] = temp[i];
-                k++;
-            }else if(temp[i]!=' '&&s_cnt==2){
+            }else if(temp[i]!=' '&&temp[i]!='\0'){
                 tmp[k] = temp[i];
                 k++;
             }
         }
+        
+        printf("<<%d>>\n",*count);
     }
 }

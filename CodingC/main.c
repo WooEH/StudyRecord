@@ -23,7 +23,10 @@ int main(){
         scanf("%d",&n);
         
         switch(n){
-            case 1: insert(tel_list,&count, max_num, temp); break;
+            case 1:
+                insert(tel_list,&count, max_num, temp);
+                temp = NULL;
+                break;
             case 2: print_all(tel_list,&count, max_num); break;
             case 3: delete_tel(tel_list,&count, max_num); break;
             case 4: find_by_birth(tel_list,&count, max_num); break;

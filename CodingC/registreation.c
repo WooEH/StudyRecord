@@ -22,12 +22,13 @@ void reg_from_file(TEL **tel_list, int *count, int max){
          이름이 배정이 끝나면 나머지 정보를 띄어쓰기 단위로 나눠서 해당 구조체로 넘겨준다.
          */
         
-        fgets(tmp, 100, fp);
+        fgets(tmp, sizeof(tmp), fp);
+        tmp[strlen(tmp)-1] = 0;
         cnt++;
         
         if(cnt <= max){
             insert(tel_list, count, max, tmp);
-        }else if(cnt>max){
+        }else {
             printf("OVERFLOW\n");
             return ;
         }
@@ -35,4 +36,6 @@ void reg_from_file(TEL **tel_list, int *count, int max){
     }
     
     fclose(fp);
+    
+    return ;
 }
