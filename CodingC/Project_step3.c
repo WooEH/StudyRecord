@@ -19,22 +19,22 @@
 //    TEL **tel_list=NULL;
 //    int count=0, n, max_num;
 //    char *temp=NULL;
-//    
+//
 //    printf("Max_num:");
 //    scanf("%d",&max_num);
-//    
+//
 //    tel_list = (TEL **)malloc(sizeof(TEL *)*max_num);
 //    if(tel_list==NULL){
 //        printf("NO ENOUGH MEMORY");
 //        return -1;
 //    }
-//    
+//
 //    while(1){
 //        printf("*****Menu*****\n");
 //        printf("<1.Registration><2.ShowAll><3.Delete><4.FindByBirth><5.RegFromFile><6.Exit>\n");
 //        printf("Enter_the_menu_number:");
 //        scanf("%d",&n);
-//        
+//
 //        switch(n){
 //            case 1: insert(tel_list,&count, max_num, temp); break;
 //            case 2: print_all(tel_list,&count, max_num); break;
@@ -53,8 +53,8 @@
 //    int ind=0, flag=0, s_cnt=0;
 //    int k=0;
 //    
-//    if(temp ==NULL){
-//        (*count)++;
+//    (*count)++;
+//    if(temp==NULL){
 //        if(*count>max){
 //            printf("OVERFLOW\n");
 //            (*count)--;
@@ -111,32 +111,30 @@
 //        strcpy(tel_list[ind]->birth,tmp);
 //        printf("<<%d>>\n",*count);
 //    }else {
-//        (*count)++;
-//        
 //        tel_list[*count-1]=(TEL *)malloc(sizeof(TEL));
 //        if(tel_list[*count-1]==NULL){
 //            printf("NO ENOUGH MEMORY");
 //            return ;
 //        }
 //        
-//        for(int i=0;i<=strlen(tmp);i++){
+//        for(int i=0;i<=strlen(temp);i++){
 //            if(temp[i]==' '||temp[i]=='\0'){
 //                tmp[k]='\0';
 //                
 //                if(s_cnt==0){
-//                    for(int i=0;i<(*count)-1;i++){
-//                        if(strcmp(tel_list[i]->name,tmp)>0){
-//                            ind = i;
+//                    for(int j=0;j<(*count)-1;j++){
+//                        if(strcmp(tel_list[j]->name,tmp)>0){
+//                            ind = j;
 //                            flag =1;
 //                            break;
 //                        }
 //                    }
 //                    
 //                    if(flag==1){
-//                        for(int i=(*count)-2;i>=ind;i--){
-//                            tel_list[i+1]->name = tel_list[i]->name;
-//                            tel_list[i+1]->tel_no = tel_list[i]->tel_no;
-//                            tel_list[i+1]->birth = tel_list[i]->birth;
+//                        for(int j=(*count)-2;j>=ind;j--){
+//                            tel_list[j+1]->name = tel_list[j]->name;
+//                            tel_list[j+1]->tel_no = tel_list[j]->tel_no;
+//                            tel_list[j+1]->birth = tel_list[j]->birth;
 //                        }
 //                    }else {
 //                        ind = *count-1;
@@ -147,7 +145,6 @@
 //                        return ;
 //                    }
 //                    strcpy(tel_list[ind]->name,tmp);
-//                    s_cnt++;
 //                }else if(s_cnt==1){
 //                    tel_list[ind]->tel_no = (char *)malloc(sizeof(char)*(strlen(tmp)+1));
 //                    if(tel_list[ind]->tel_no==NULL){
@@ -155,7 +152,6 @@
 //                        return ;
 //                    }
 //                    strcpy(tel_list[ind]->tel_no,tmp);
-//                    s_cnt++;
 //                }else if(s_cnt==2){
 //                    tel_list[ind]->birth = (char *)malloc(sizeof(char)*(strlen(tmp)+1));
 //                    if(tel_list[ind]->birth==NULL){
@@ -163,18 +159,18 @@
 //                        return ;
 //                    }
 //                    strcpy(tel_list[ind]->birth,tmp);
-//                    s_cnt++;
 //                }
+//                
+//                s_cnt++;
 //                k=0;
-//            }
-//            
-//            else if(temp[i]!=' '&&temp[i]!='\0'){
+//            }else if(temp[i]!=' '&&temp[i]!='\0'){
 //                tmp[k] = temp[i];
 //                k++;
 //            }
 //        }
 //    }
 //}
+//
 //
 //void print_all(TEL **tel_list, int *count, int max){
 //    for(int i=0;i<*count;i++){
@@ -185,15 +181,15 @@
 //void delete_tel(TEL **tel_list, int *count, int max){
 //    char tmp[101];
 //    int flag=0;
-//    
+//
 //    if(*count==0){
 //        printf("NO MEMBER\n");
 //        return ;
 //    }
-//    
+//
 //    printf("Name:");
 //    scanf("%s",tmp);
-//    
+//
 //    for(int i=0;i<*count;i++){
 //        if(strcmp(tel_list[i]->name,tmp)==0){
 //            flag++;
@@ -204,14 +200,14 @@
 //                    return ;
 //                }
 //                strcpy(tel_list[j]->name,tel_list[j+1]->name);
-//                
+//
 //                tel_list[j]->tel_no = (char *)realloc(tel_list[j]->tel_no,sizeof(char)*(strlen(tel_list[j+1]->tel_no)+1));
 //                if(tel_list[j]->tel_no==NULL){
 //                    printf("NO ENOUGH MEMORY");
 //                    return ;
 //                }
 //                strcpy(tel_list[j]->tel_no,tel_list[j+1]->tel_no);
-//                
+//
 //                tel_list[j]->birth = (char *)realloc(tel_list[j]->birth,sizeof(char)*(strlen(tel_list[j+1]->birth)+1));
 //                if(tel_list[j]->birth==NULL){
 //                    printf("NO ENOUGH MEMORY");
@@ -235,7 +231,7 @@
 //    char tar_mon[3];
 //    printf("Birth:");
 //    scanf("%s",tar_mon);
-//    
+//
 //    for(int i=0;i<*count;i++){
 //        if(strlen(tar_mon)==1){
 //            if(tel_list[i]->birth[strlen(tel_list[i]->birth)-3]==tar_mon[0]){
@@ -261,46 +257,39 @@
 //    }
 //    
 //    while(!feof(fp)){
-//        /* 한줄씩 가져오고 그 줄마다 띄어쓰기 단위로 정보가 가지는 의미가 바뀌기 때문에
-//         처음부터 첫 띄어쓰기 = 이름
-//         이름을 먼저 정렬하는 과정을 insert함수를 사용할지 아니면 여기다가 따로 구현할지 생각
-//         이름이 배정이 끝나면 나머지 정보를 띄어쓰기 단위로 나눠서 해당 구조체로 넘겨준다.
-//         */
-//        
-//        fgets(tmp, 100, fp);
-//        cnt++;
-//        
-//        if(cnt <= max){
-//            insert(tel_list, count, max, tmp);
-//        }else if(cnt>max){
-//            printf("OVERFLOW\n");
-//            return ;
+//        if(NULL!=fgets(tmp, sizeof(tmp), fp)){
+//            tmp[strlen(tmp)-1] = '\0';
+//            cnt++;
+//            
+//            if(cnt <= max){
+//                insert(tel_list, count, max, tmp);
+//            }else {
+//                printf("OVERFLOW\n");
+//                return ;
+//            }
 //        }
-//        
 //    }
 //    
 //    fclose(fp);
+//    return ;
 //}
+//
 //
 //void exit_program(TEL **tel_list,int *count, int max){
 //    FILE *fp=NULL;
-//    /*
-//     현재 구조체들에 저장된 정보들을 모두 파일에 옮겨준다.
-//     그리고 할당된 메모리들을 모두 해제해준다.
-//     */
 //    
 //    fp=fopen("PHONE_BOOK.txt","w");
 //    if(fp==NULL){
 //        printf("Can't open");
 //        return ;
 //    }
-//    
+//
 //    for(int i=0;i<*count;i++){
-//        fprintf(fp,"%s %s %s\n",tel_list[i]->name, tel_list[i]->birth,tel_list[i]->tel_no);
+//        fprintf(fp,"%s %s %s\n",tel_list[i]->name, tel_list[i]->tel_no,tel_list[i]->birth);
 //    }
-//    
+//
 //    fclose(fp);
-//    
+//
 //    for(int i=0;i<*count;i++){
 //        free(tel_list[i]->name);
 //        free(tel_list[i]->birth);
