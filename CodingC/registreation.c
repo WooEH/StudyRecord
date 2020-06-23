@@ -23,6 +23,7 @@ void reg_from_file(TEL **tel_list, int *count, int max){
          */
         
         fgets(tmp, sizeof(tmp), fp);
+        
         tmp[strlen(tmp)-1] = 0;
         cnt++;
         

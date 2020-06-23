@@ -126,7 +126,5 @@ void insert(TEL **tel_list, int *count, int max, char *temp){
                 k++;
             }
         }
-        
-        printf("<<%d>>\n",*count);
     }
 }
