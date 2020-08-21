@@ -30,6 +30,7 @@
 		E2A2DE55249CE043006FB1F8 /* p4.c in Sources */ = {isa = PBXBuildFile; fileRef = E2A2DE54249CE043006FB1F8 /* p4.c */; };
 		E2A2DE57249CE6FB006FB1F8 /* p1.c in Sources */ = {isa = PBXBuildFile; fileRef = E2A2DE56249CE6FB006FB1F8 /* p1.c */; };
 		E2A2DE5A249CE76E006FB1F8 /* Project_step3.c in Sources */ = {isa = PBXBuildFile; fileRef = E2A2DE59249CE76E006FB1F8 /* Project_step3.c */; };
+		E2B1BD7124EFB2DE00DB2F4A /* 백준19591.c in Sources */ = {isa = PBXBuildFile; fileRef = E2B1BD7024EFB2DE00DB2F4A /* 백준19591.c */; };
 		E2B8870024BF4F160077D45A /* 백준2869.c in Sources */ = {isa = PBXBuildFile; fileRef = E2B886FF24BF4F160077D45A /* 백준2869.c */; };
 		E2B8870224BF59600077D45A /* 백준10250.c in Sources */ = {isa = PBXBuildFile; fileRef = E2B8870124BF59600077D45A /* 백준10250.c */; };
 		E2F51AA5249DFB0E0076EC8B /* print.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA4249DFB0E0076EC8B /* print.c */; };
@@ -78,6 +79,7 @@
 		E2A2DE54249CE043006FB1F8 /* p4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = p4.c; sourceTree = "<group>"; };
 		E2A2DE56249CE6FB006FB1F8 /* p1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = p1.c; sourceTree = "<group>"; };
 		E2A2DE59249CE76E006FB1F8 /* Project_step3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Project_step3.c; sourceTree = "<group>"; };
+		E2B1BD7024EFB2DE00DB2F4A /* 백준19591.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준19591.c"; sourceTree = "<group>"; };
 		E2B886FF24BF4F160077D45A /* 백준2869.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준2869.c"; sourceTree = "<group>"; };
 		E2B8870124BF59600077D45A /* 백준10250.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준10250.c"; sourceTree = "<group>"; };
 		E2CF6297249A8627005FCF6C /* CodingC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingC; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -158,6 +160,7 @@
 				E22AD62D24C1B82C00A62A83 /* 백준16673.c */,
 				E22AD62F24C1B9BC00A62A83 /* 백준15624.c */,
 				E255E54024C21EEC00B322B5 /* 백준3190.c */,
+				E2B1BD7024EFB2DE00DB2F4A /* 백준19591.c */,
 			);
 			path = CodingC;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				E2A2DE51249CD492006FB1F8 /* p2.c in Sources */,
 				E29FF28224BDAC54006C40D3 /* 백준10809.c in Sources */,
 				E22AD62A24C0DD2800A62A83 /* 백준1011.c in Sources */,
+				E2B1BD7124EFB2DE00DB2F4A /* 백준19591.c in Sources */,
 				E2A2DE57249CE6FB006FB1F8 /* p1.c in Sources */,
 				E2F51AAF249DFC9B0076EC8B /* exit.c in Sources */,
 				E2F51AA9249DFBD80076EC8B /* delete.c in Sources */,
