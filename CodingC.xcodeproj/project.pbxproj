@@ -17,6 +17,8 @@
 		E22AD62A24C0DD2800A62A83 /* 백준1011.c in Sources */ = {isa = PBXBuildFile; fileRef = E22AD62924C0DD2800A62A83 /* 백준1011.c */; };
 		E22AD62E24C1B82C00A62A83 /* 백준16673.c in Sources */ = {isa = PBXBuildFile; fileRef = E22AD62D24C1B82C00A62A83 /* 백준16673.c */; };
 		E22AD63024C1B9BC00A62A83 /* 백준15624.c in Sources */ = {isa = PBXBuildFile; fileRef = E22AD62F24C1B9BC00A62A83 /* 백준15624.c */; };
+		E2403A7225232CE4000591D6 /* Kinglog1.c in Sources */ = {isa = PBXBuildFile; fileRef = E2403A7125232CE4000591D6 /* Kinglog1.c */; };
+		E2403A7525232DF9000591D6 /* Kinglog2.c in Sources */ = {isa = PBXBuildFile; fileRef = E2403A7425232DF9000591D6 /* Kinglog2.c */; };
 		E255E54124C21EEC00B322B5 /* 백준3190.c in Sources */ = {isa = PBXBuildFile; fileRef = E255E54024C21EEC00B322B5 /* 백준3190.c */; };
 		E27B86A324FA442400204018 /* 백준1010.c in Sources */ = {isa = PBXBuildFile; fileRef = E27B86A224FA442400204018 /* 백준1010.c */; };
 		E27B86A524FA4BAC00204018 /* 백준2822.c in Sources */ = {isa = PBXBuildFile; fileRef = E27B86A424FA4BAC00204018 /* 백준2822.c */; };
@@ -68,6 +70,8 @@
 		E22AD62924C0DD2800A62A83 /* 백준1011.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준1011.c"; sourceTree = "<group>"; };
 		E22AD62D24C1B82C00A62A83 /* 백준16673.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준16673.c"; sourceTree = "<group>"; };
 		E22AD62F24C1B9BC00A62A83 /* 백준15624.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준15624.c"; sourceTree = "<group>"; };
+		E2403A7125232CE4000591D6 /* Kinglog1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog1.c; sourceTree = "<group>"; };
+		E2403A7425232DF9000591D6 /* Kinglog2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog2.c; sourceTree = "<group>"; };
 		E255E54024C21EEC00B322B5 /* 백준3190.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준3190.c"; sourceTree = "<group>"; };
 		E27B86A224FA442400204018 /* 백준1010.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준1010.c"; sourceTree = "<group>"; };
 		E27B86A424FA4BAC00204018 /* 백준2822.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준2822.c"; sourceTree = "<group>"; };
@@ -131,7 +135,9 @@
 			children = (
 				E2A2DE50249CD492006FB1F8 /* p2.c */,
 				E2A2DE52249CD9A1006FB1F8 /* p3.c */,
+				E2403A7425232DF9000591D6 /* Kinglog2.c */,
 				E2A2DE54249CE043006FB1F8 /* p4.c */,
+				E2403A7125232CE4000591D6 /* Kinglog1.c */,
 				E2A2DE56249CE6FB006FB1F8 /* p1.c */,
 				E2A2DE59249CE76E006FB1F8 /* Project_step3.c */,
 				E2F51AAA249DFC1B0076EC8B /* search.c */,
@@ -255,8 +261,10 @@
 				E2B8870024BF4F160077D45A /* 백준2869.c in Sources */,
 				E27B86A324FA442400204018 /* 백준1010.c in Sources */,
 				E22AD63024C1B9BC00A62A83 /* 백준15624.c in Sources */,
+				E2403A7225232CE4000591D6 /* Kinglog1.c in Sources */,
 				E29FF27E24BDA5BC006C40D3 /* 백준11654.c in Sources */,
 				E22A5D4C24BE06E4002F227B /* 백준5622.c in Sources */,
+				E2403A7525232DF9000591D6 /* Kinglog2.c in Sources */,
 				E2809C4C24BF006A005BF786 /* 백준2292.c in Sources */,
 				E2A2DE5A249CE76E006FB1F8 /* Project_step3.c in Sources */,
 				E220456324BE414200101F58 /* 백준1316.c in Sources */,
