@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		E21B40562529FB440019640A /* Kinglog10.c in Sources */ = {isa = PBXBuildFile; fileRef = E21B40552529FB440019640A /* Kinglog10.c */; };
 		E21B40592529FD720019640A /* Kinglog11.c in Sources */ = {isa = PBXBuildFile; fileRef = E21B40582529FD720019640A /* Kinglog11.c */; };
+		E21DC145252B68D500715CEA /* Kinglog12.c in Sources */ = {isa = PBXBuildFile; fileRef = E21DC144252B68D500715CEA /* Kinglog12.c */; };
+		E21DC148252B69DB00715CEA /* Kinglog13.c in Sources */ = {isa = PBXBuildFile; fileRef = E21DC147252B69DB00715CEA /* Kinglog13.c */; };
 		E220456324BE414200101F58 /* 백준1316.c in Sources */ = {isa = PBXBuildFile; fileRef = E220456224BE414200101F58 /* 백준1316.c */; };
 		E220456524BE46E100101F58 /* 백준1712.c in Sources */ = {isa = PBXBuildFile; fileRef = E220456424BE46E100101F58 /* 백준1712.c */; };
 		E220456724BE4F8400101F58 /* 백준2839.c in Sources */ = {isa = PBXBuildFile; fileRef = E220456624BE4F8400101F58 /* 백준2839.c */; };
@@ -29,6 +31,8 @@
 		E283C05F2528C2D00067DF35 /* Kinglog8.c in Sources */ = {isa = PBXBuildFile; fileRef = E283C05E2528C2D00067DF35 /* Kinglog8.c */; };
 		E283C0622528C5E90067DF35 /* Kinglog9.c in Sources */ = {isa = PBXBuildFile; fileRef = E283C0612528C5E90067DF35 /* Kinglog9.c */; };
 		E28E21122527063000019D78 /* Kinglog6.c in Sources */ = {isa = PBXBuildFile; fileRef = E28E21112527063000019D78 /* Kinglog6.c */; };
+		E2940F42252CF94600DBF379 /* Kinglog14.c in Sources */ = {isa = PBXBuildFile; fileRef = E2940F41252CF94600DBF379 /* Kinglog14.c */; };
+		E2940F45252CFB7200DBF379 /* Kinglog15.c in Sources */ = {isa = PBXBuildFile; fileRef = E2940F44252CFB7200DBF379 /* Kinglog15.c */; };
 		E29D7B202525D31A0064168C /* Kinglog4.c in Sources */ = {isa = PBXBuildFile; fileRef = E29D7B1F2525D31A0064168C /* Kinglog4.c */; };
 		E29D7B232525D42A0064168C /* Kinglog5.c in Sources */ = {isa = PBXBuildFile; fileRef = E29D7B222525D42A0064168C /* Kinglog5.c */; };
 		E29FF27E24BDA5BC006C40D3 /* 백준11654.c in Sources */ = {isa = PBXBuildFile; fileRef = E29FF27D24BDA5BC006C40D3 /* 백준11654.c */; };
@@ -71,6 +75,8 @@
 /* Begin PBXFileReference section */
 		E21B40552529FB440019640A /* Kinglog10.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog10.c; sourceTree = "<group>"; };
 		E21B40582529FD720019640A /* Kinglog11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog11.c; sourceTree = "<group>"; };
+		E21DC144252B68D500715CEA /* Kinglog12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog12.c; sourceTree = "<group>"; };
+		E21DC147252B69DB00715CEA /* Kinglog13.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog13.c; sourceTree = "<group>"; };
 		E220456224BE414200101F58 /* 백준1316.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준1316.c"; sourceTree = "<group>"; };
 		E220456424BE46E100101F58 /* 백준1712.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준1712.c"; sourceTree = "<group>"; };
 		E220456624BE4F8400101F58 /* 백준2839.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준2839.c"; sourceTree = "<group>"; };
@@ -91,6 +97,8 @@
 		E283C05E2528C2D00067DF35 /* Kinglog8.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog8.c; sourceTree = "<group>"; };
 		E283C0612528C5E90067DF35 /* Kinglog9.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog9.c; sourceTree = "<group>"; };
 		E28E21112527063000019D78 /* Kinglog6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog6.c; sourceTree = "<group>"; };
+		E2940F41252CF94600DBF379 /* Kinglog14.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog14.c; sourceTree = "<group>"; };
+		E2940F44252CFB7200DBF379 /* Kinglog15.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog15.c; sourceTree = "<group>"; };
 		E29D7B1F2525D31A0064168C /* Kinglog4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog4.c; sourceTree = "<group>"; };
 		E29D7B222525D42A0064168C /* Kinglog5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog5.c; sourceTree = "<group>"; };
 		E29FF27D24BDA5BC006C40D3 /* 백준11654.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준11654.c"; sourceTree = "<group>"; };
@@ -153,6 +161,7 @@
 			children = (
 				E2A2DE50249CD492006FB1F8 /* p2.c */,
 				E21B40582529FD720019640A /* Kinglog11.c */,
+				E2940F41252CF94600DBF379 /* Kinglog14.c */,
 				E2A2DE52249CD9A1006FB1F8 /* p3.c */,
 				E283C05E2528C2D00067DF35 /* Kinglog8.c */,
 				E2DC795C2524AAFE0086765E /* Kinglog3.c */,
@@ -160,13 +169,16 @@
 				E2403A7425232DF9000591D6 /* Kinglog2.c */,
 				E2A2DE54249CE043006FB1F8 /* p4.c */,
 				E2403A7125232CE4000591D6 /* Kinglog1.c */,
+				E21DC144252B68D500715CEA /* Kinglog12.c */,
 				E283C0612528C5E90067DF35 /* Kinglog9.c */,
 				E2A2DE56249CE6FB006FB1F8 /* p1.c */,
 				E2A2DE59249CE76E006FB1F8 /* Project_step3.c */,
 				E29D7B222525D42A0064168C /* Kinglog5.c */,
+				E2940F44252CFB7200DBF379 /* Kinglog15.c */,
 				E2F51AAA249DFC1B0076EC8B /* search.c */,
 				E2F51AA0249DF5EC0076EC8B /* my_struct.h */,
 				E2F51AA1249DF6000076EC8B /* my_header.h */,
+				E21DC147252B69DB00715CEA /* Kinglog13.c */,
 				E28E21112527063000019D78 /* Kinglog6.c */,
 				E2F51AA4249DFB0E0076EC8B /* print.c */,
 				E2F51AA6249DFB970076EC8B /* insert.c */,
@@ -261,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2940F42252CF94600DBF379 /* Kinglog14.c in Sources */,
 				E29FF28024BDA7C2006C40D3 /* 백준11720.c in Sources */,
 				E29FF28624BDB0F4006C40D3 /* 백준1157.c in Sources */,
 				E22A5D4A24BE059B002F227B /* 백준2908.c in Sources */,
@@ -283,15 +296,18 @@
 				E2F51AA9249DFBD80076EC8B /* delete.c in Sources */,
 				E2F51AA5249DFB0E0076EC8B /* print.c in Sources */,
 				E220456524BE46E100101F58 /* 백준1712.c in Sources */,
+				E2940F45252CFB7200DBF379 /* Kinglog15.c in Sources */,
 				E2F51AB1249DFCC10076EC8B /* main.c in Sources */,
 				E29FF28424BDAC75006C40D3 /* 백준2675.c in Sources */,
 				E283C05C2528C28C0067DF35 /* Kinglog7.c in Sources */,
 				E2F51AAB249DFC1B0076EC8B /* search.c in Sources */,
+				E21DC145252B68D500715CEA /* Kinglog12.c in Sources */,
 				E255E54124C21EEC00B322B5 /* 백준3190.c in Sources */,
 				E2B8870024BF4F160077D45A /* 백준2869.c in Sources */,
 				E27B86A324FA442400204018 /* 백준1010.c in Sources */,
 				E22AD63024C1B9BC00A62A83 /* 백준15624.c in Sources */,
 				E2403A7225232CE4000591D6 /* Kinglog1.c in Sources */,
+				E21DC148252B69DB00715CEA /* Kinglog13.c in Sources */,
 				E29FF27E24BDA5BC006C40D3 /* 백준11654.c in Sources */,
 				E22A5D4C24BE06E4002F227B /* 백준5622.c in Sources */,
 				E2403A7525232DF9000591D6 /* Kinglog2.c in Sources */,
