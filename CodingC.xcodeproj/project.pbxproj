@@ -31,6 +31,7 @@
 		E283C05F2528C2D00067DF35 /* Kinglog8.c in Sources */ = {isa = PBXBuildFile; fileRef = E283C05E2528C2D00067DF35 /* Kinglog8.c */; };
 		E283C0622528C5E90067DF35 /* Kinglog9.c in Sources */ = {isa = PBXBuildFile; fileRef = E283C0612528C5E90067DF35 /* Kinglog9.c */; };
 		E28E21122527063000019D78 /* Kinglog6.c in Sources */ = {isa = PBXBuildFile; fileRef = E28E21112527063000019D78 /* Kinglog6.c */; };
+		E290C6A425309B3D00F0CBFE /* Kinglog_BendingMachine.c in Sources */ = {isa = PBXBuildFile; fileRef = E290C6A325309B3D00F0CBFE /* Kinglog_BendingMachine.c */; };
 		E2940F42252CF94600DBF379 /* Kinglog14.c in Sources */ = {isa = PBXBuildFile; fileRef = E2940F41252CF94600DBF379 /* Kinglog14.c */; };
 		E2940F45252CFB7200DBF379 /* Kinglog15.c in Sources */ = {isa = PBXBuildFile; fileRef = E2940F44252CFB7200DBF379 /* Kinglog15.c */; };
 		E29D7B202525D31A0064168C /* Kinglog4.c in Sources */ = {isa = PBXBuildFile; fileRef = E29D7B1F2525D31A0064168C /* Kinglog4.c */; };
@@ -99,6 +100,7 @@
 		E283C05E2528C2D00067DF35 /* Kinglog8.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog8.c; sourceTree = "<group>"; };
 		E283C0612528C5E90067DF35 /* Kinglog9.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog9.c; sourceTree = "<group>"; };
 		E28E21112527063000019D78 /* Kinglog6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog6.c; sourceTree = "<group>"; };
+		E290C6A325309B3D00F0CBFE /* Kinglog_BendingMachine.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog_BendingMachine.c; sourceTree = "<group>"; };
 		E2940F41252CF94600DBF379 /* Kinglog14.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog14.c; sourceTree = "<group>"; };
 		E2940F44252CFB7200DBF379 /* Kinglog15.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog15.c; sourceTree = "<group>"; };
 		E29D7B1F2525D31A0064168C /* Kinglog4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog4.c; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				E2B26D25252DB07B0084D877 /* Kinglog17.c */,
 				E2A2DE54249CE043006FB1F8 /* p4.c */,
 				E2403A7125232CE4000591D6 /* Kinglog1.c */,
+				E290C6A325309B3D00F0CBFE /* Kinglog_BendingMachine.c */,
 				E21DC144252B68D500715CEA /* Kinglog12.c */,
 				E283C0612528C5E90067DF35 /* Kinglog9.c */,
 				E2A2DE56249CE6FB006FB1F8 /* p1.c */,
@@ -308,6 +311,7 @@
 				E2F51AB1249DFCC10076EC8B /* main.c in Sources */,
 				E29FF28424BDAC75006C40D3 /* 백준2675.c in Sources */,
 				E283C05C2528C28C0067DF35 /* Kinglog7.c in Sources */,
+				E290C6A425309B3D00F0CBFE /* Kinglog_BendingMachine.c in Sources */,
 				E2F51AAB249DFC1B0076EC8B /* search.c in Sources */,
 				E21DC145252B68D500715CEA /* Kinglog12.c in Sources */,
 				E255E54124C21EEC00B322B5 /* 백준3190.c in Sources */,
