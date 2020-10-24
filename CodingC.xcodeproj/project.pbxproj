@@ -114,6 +114,8 @@
 		E2BF8B1C2544D4F20066C8E2 /* Chap7_03.c in Sources */ = {isa = PBXBuildFile; fileRef = E2BF8B1B2544D4F20066C8E2 /* Chap7_03.c */; };
 		E2BF8B202544D85D0066C8E2 /* Chap7_05.c in Sources */ = {isa = PBXBuildFile; fileRef = E2BF8B1F2544D85D0066C8E2 /* Chap7_05.c */; };
 		E2BF8B232544D87C0066C8E2 /* Chap7_04.c in Sources */ = {isa = PBXBuildFile; fileRef = E2BF8B222544D87C0066C8E2 /* Chap7_04.c */; };
+		E2BF8B272544EA880066C8E2 /* Chap7_06.c in Sources */ = {isa = PBXBuildFile; fileRef = E2BF8B262544EA880066C8E2 /* Chap7_06.c */; };
+		E2BF8B2A2544EC0F0066C8E2 /* Chap7_07.c in Sources */ = {isa = PBXBuildFile; fileRef = E2BF8B292544EC0F0066C8E2 /* Chap7_07.c */; };
 		E2DC795D2524AAFE0086765E /* Kinglog3.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DC795C2524AAFE0086765E /* Kinglog3.c */; };
 		E2F51AA5249DFB0E0076EC8B /* print.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA4249DFB0E0076EC8B /* print.c */; };
 		E2F51AA7249DFB970076EC8B /* insert.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA6249DFB970076EC8B /* insert.c */; };
@@ -245,6 +247,8 @@
 		E2BF8B1B2544D4F20066C8E2 /* Chap7_03.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_03.c; sourceTree = "<group>"; };
 		E2BF8B1F2544D85D0066C8E2 /* Chap7_05.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_05.c; sourceTree = "<group>"; };
 		E2BF8B222544D87C0066C8E2 /* Chap7_04.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_04.c; sourceTree = "<group>"; };
+		E2BF8B262544EA880066C8E2 /* Chap7_06.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_06.c; sourceTree = "<group>"; };
+		E2BF8B292544EC0F0066C8E2 /* Chap7_07.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_07.c; sourceTree = "<group>"; };
 		E2CF6297249A8627005FCF6C /* CodingC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingC; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DC795C2524AAFE0086765E /* Kinglog3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog3.c; sourceTree = "<group>"; };
 		E2F51AA0249DF5EC0076EC8B /* my_struct.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = my_struct.h; sourceTree = "<group>"; };
@@ -315,10 +319,12 @@
 				E228E87E25434B080075ED82 /* Chap4_05.c */,
 				E228E88D254368070075ED82 /* Chap4_10.c */,
 				E228E89625436B550075ED82 /* Chap5_03.c */,
+				E2BF8B292544EC0F0066C8E2 /* Chap7_07.c */,
 				E2BF8B122544D1C70066C8E2 /* Chap6_13.c */,
 				E2BF8B0C2544D0D60066C8E2 /* Chap6_11.c */,
 				E2BF8B1F2544D85D0066C8E2 /* Chap7_05.c */,
 				E2BF8B182544D44A0066C8E2 /* Chap7_02.c */,
+				E2BF8B262544EA880066C8E2 /* Chap7_06.c */,
 				E2BF8B222544D87C0066C8E2 /* Chap7_04.c */,
 				E2BF8B0F2544D14C0066C8E2 /* Chap6_12.c */,
 				E2BF8B152544D3660066C8E2 /* Chap7_01.c */,
@@ -532,6 +538,7 @@
 				E2F51AB1249DFCC10076EC8B /* main.c in Sources */,
 				E29FF28424BDAC75006C40D3 /* 백준2675.c in Sources */,
 				E2BF8AE92544AB560066C8E2 /* Chap5_12.c in Sources */,
+				E2BF8B272544EA880066C8E2 /* Chap7_06.c in Sources */,
 				E2BF8AE02544A31E0066C8E2 /* Chap5_09.c in Sources */,
 				E283C05C2528C28C0067DF35 /* Kinglog7.c in Sources */,
 				E290C6A425309B3D00F0CBFE /* Kinglog_BendingMachine.c in Sources */,
@@ -573,6 +580,7 @@
 				E228E86A254342BD0075ED82 /* Chap3_03.c in Sources */,
 				E228E8642543413A0075ED82 /* Chap3_01.c in Sources */,
 				E228E86125432CB40075ED82 /* Chap2_10.c in Sources */,
+				E2BF8B2A2544EC0F0066C8E2 /* Chap7_07.c in Sources */,
 				E220456724BE4F8400101F58 /* 백준2839.c in Sources */,
 				E21B40592529FD720019640A /* Kinglog11.c in Sources */,
 				E228E86D254343550075ED82 /* Chap3_04.c in Sources */,
