@@ -59,6 +59,18 @@
 		E23076E325431F48002B0465 /* Chap2_01.c in Sources */ = {isa = PBXBuildFile; fileRef = E23076E225431F48002B0465 /* Chap2_01.c */; };
 		E2403A7225232CE4000591D6 /* Kinglog1.c in Sources */ = {isa = PBXBuildFile; fileRef = E2403A7125232CE4000591D6 /* Kinglog1.c */; };
 		E2403A7525232DF9000591D6 /* Kinglog2.c in Sources */ = {isa = PBXBuildFile; fileRef = E2403A7425232DF9000591D6 /* Kinglog2.c */; };
+		E24A8C79254C305200FA75BB /* Chap8_04.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C78254C305200FA75BB /* Chap8_04.c */; };
+		E24A8C7C254C321100FA75BB /* Chap8_05.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C7B254C321100FA75BB /* Chap8_05.c */; };
+		E24A8C7F254C32E500FA75BB /* Chap8_06.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C7E254C32E500FA75BB /* Chap8_06.c */; };
+		E24A8C82254C364800FA75BB /* Chap8_07.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C81254C364800FA75BB /* Chap8_07.c */; };
+		E24A8C85254C36D300FA75BB /* Chap8_08.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C84254C36D300FA75BB /* Chap8_08.c */; };
+		E24A8C88254C37B800FA75BB /* Chap8_09.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C87254C37B800FA75BB /* Chap8_09.c */; };
+		E24A8C8B254C3A2C00FA75BB /* Chap8_10.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C8A254C3A2C00FA75BB /* Chap8_10.c */; };
+		E24A8C8E254C3D5F00FA75BB /* Chap8_11.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C8D254C3D5F00FA75BB /* Chap8_11.c */; };
+		E24A8C91254C435200FA75BB /* Chap8_12.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C90254C435200FA75BB /* Chap8_12.c */; };
+		E24A8C94254C44B900FA75BB /* Chap8_13.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C93254C44B900FA75BB /* Chap8_13.c */; };
+		E24A8C97254C479100FA75BB /* Chap8_14.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C96254C479100FA75BB /* Chap8_14.c */; };
+		E254E9452549F020003EB9F6 /* Chap8_03.c in Sources */ = {isa = PBXBuildFile; fileRef = E254E9442549F020003EB9F6 /* Chap8_03.c */; };
 		E255E54124C21EEC00B322B5 /* 백준3190.c in Sources */ = {isa = PBXBuildFile; fileRef = E255E54024C21EEC00B322B5 /* 백준3190.c */; };
 		E27B86A324FA442400204018 /* 백준1010.c in Sources */ = {isa = PBXBuildFile; fileRef = E27B86A224FA442400204018 /* 백준1010.c */; };
 		E27B86A524FA4BAC00204018 /* 백준2822.c in Sources */ = {isa = PBXBuildFile; fileRef = E27B86A424FA4BAC00204018 /* 백준2822.c */; };
@@ -70,6 +82,14 @@
 		E290C6A425309B3D00F0CBFE /* Kinglog_BendingMachine.c in Sources */ = {isa = PBXBuildFile; fileRef = E290C6A325309B3D00F0CBFE /* Kinglog_BendingMachine.c */; };
 		E2940F42252CF94600DBF379 /* Kinglog14.c in Sources */ = {isa = PBXBuildFile; fileRef = E2940F41252CF94600DBF379 /* Kinglog14.c */; };
 		E2940F45252CFB7200DBF379 /* Kinglog15.c in Sources */ = {isa = PBXBuildFile; fileRef = E2940F44252CFB7200DBF379 /* Kinglog15.c */; };
+		E29C02D22549D969009C9963 /* Chap7_08.c in Sources */ = {isa = PBXBuildFile; fileRef = E29C02D12549D969009C9963 /* Chap7_08.c */; };
+		E29C02D52549DA51009C9963 /* Chap7_09.c in Sources */ = {isa = PBXBuildFile; fileRef = E29C02D42549DA51009C9963 /* Chap7_09.c */; };
+		E29C02D82549DB0C009C9963 /* Chap7_10.c in Sources */ = {isa = PBXBuildFile; fileRef = E29C02D72549DB0C009C9963 /* Chap7_10.c */; };
+		E29C02DB2549E340009C9963 /* Chap7_11.c in Sources */ = {isa = PBXBuildFile; fileRef = E29C02DA2549E340009C9963 /* Chap7_11.c */; };
+		E29C02DE2549E447009C9963 /* Chap7_12.c in Sources */ = {isa = PBXBuildFile; fileRef = E29C02DD2549E447009C9963 /* Chap7_12.c */; };
+		E29C02E12549E5E7009C9963 /* Chap7_13.c in Sources */ = {isa = PBXBuildFile; fileRef = E29C02E02549E5E7009C9963 /* Chap7_13.c */; };
+		E29C02E42549EE49009C9963 /* Chap8_01.c in Sources */ = {isa = PBXBuildFile; fileRef = E29C02E32549EE49009C9963 /* Chap8_01.c */; };
+		E29C02E72549EF13009C9963 /* Chap8_02.c in Sources */ = {isa = PBXBuildFile; fileRef = E29C02E62549EF13009C9963 /* Chap8_02.c */; };
 		E29D7B202525D31A0064168C /* Kinglog4.c in Sources */ = {isa = PBXBuildFile; fileRef = E29D7B1F2525D31A0064168C /* Kinglog4.c */; };
 		E29D7B232525D42A0064168C /* Kinglog5.c in Sources */ = {isa = PBXBuildFile; fileRef = E29D7B222525D42A0064168C /* Kinglog5.c */; };
 		E29FF27E24BDA5BC006C40D3 /* 백준11654.c in Sources */ = {isa = PBXBuildFile; fileRef = E29FF27D24BDA5BC006C40D3 /* 백준11654.c */; };
@@ -192,6 +212,18 @@
 		E23076E225431F48002B0465 /* Chap2_01.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap2_01.c; sourceTree = "<group>"; };
 		E2403A7125232CE4000591D6 /* Kinglog1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog1.c; sourceTree = "<group>"; };
 		E2403A7425232DF9000591D6 /* Kinglog2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog2.c; sourceTree = "<group>"; };
+		E24A8C78254C305200FA75BB /* Chap8_04.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_04.c; sourceTree = "<group>"; };
+		E24A8C7B254C321100FA75BB /* Chap8_05.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_05.c; sourceTree = "<group>"; };
+		E24A8C7E254C32E500FA75BB /* Chap8_06.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_06.c; sourceTree = "<group>"; };
+		E24A8C81254C364800FA75BB /* Chap8_07.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_07.c; sourceTree = "<group>"; };
+		E24A8C84254C36D300FA75BB /* Chap8_08.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_08.c; sourceTree = "<group>"; };
+		E24A8C87254C37B800FA75BB /* Chap8_09.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_09.c; sourceTree = "<group>"; };
+		E24A8C8A254C3A2C00FA75BB /* Chap8_10.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_10.c; sourceTree = "<group>"; };
+		E24A8C8D254C3D5F00FA75BB /* Chap8_11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_11.c; sourceTree = "<group>"; };
+		E24A8C90254C435200FA75BB /* Chap8_12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_12.c; sourceTree = "<group>"; };
+		E24A8C93254C44B900FA75BB /* Chap8_13.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_13.c; sourceTree = "<group>"; };
+		E24A8C96254C479100FA75BB /* Chap8_14.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_14.c; sourceTree = "<group>"; };
+		E254E9442549F020003EB9F6 /* Chap8_03.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_03.c; sourceTree = "<group>"; };
 		E255E54024C21EEC00B322B5 /* 백준3190.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준3190.c"; sourceTree = "<group>"; };
 		E27B86A224FA442400204018 /* 백준1010.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준1010.c"; sourceTree = "<group>"; };
 		E27B86A424FA4BAC00204018 /* 백준2822.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준2822.c"; sourceTree = "<group>"; };
@@ -203,6 +235,14 @@
 		E290C6A325309B3D00F0CBFE /* Kinglog_BendingMachine.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog_BendingMachine.c; sourceTree = "<group>"; };
 		E2940F41252CF94600DBF379 /* Kinglog14.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog14.c; sourceTree = "<group>"; };
 		E2940F44252CFB7200DBF379 /* Kinglog15.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog15.c; sourceTree = "<group>"; };
+		E29C02D12549D969009C9963 /* Chap7_08.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_08.c; sourceTree = "<group>"; };
+		E29C02D42549DA51009C9963 /* Chap7_09.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_09.c; sourceTree = "<group>"; };
+		E29C02D72549DB0C009C9963 /* Chap7_10.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_10.c; sourceTree = "<group>"; };
+		E29C02DA2549E340009C9963 /* Chap7_11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_11.c; sourceTree = "<group>"; };
+		E29C02DD2549E447009C9963 /* Chap7_12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_12.c; sourceTree = "<group>"; };
+		E29C02E02549E5E7009C9963 /* Chap7_13.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_13.c; sourceTree = "<group>"; };
+		E29C02E32549EE49009C9963 /* Chap8_01.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_01.c; sourceTree = "<group>"; };
+		E29C02E62549EF13009C9963 /* Chap8_02.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_02.c; sourceTree = "<group>"; };
 		E29D7B1F2525D31A0064168C /* Kinglog4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog4.c; sourceTree = "<group>"; };
 		E29D7B222525D42A0064168C /* Kinglog5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog5.c; sourceTree = "<group>"; };
 		E29FF27D24BDA5BC006C40D3 /* 백준11654.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준11654.c"; sourceTree = "<group>"; };
@@ -310,24 +350,44 @@
 				E283C0612528C5E90067DF35 /* Kinglog9.c */,
 				E228E857254323B70075ED82 /* Chap2_07.c */,
 				E23076DC25431DE1002B0465 /* Chap1_05.c */,
+				E24A8C8D254C3D5F00FA75BB /* Chap8_11.c */,
 				E228E86F254343C50075ED82 /* Chap3_05.c */,
 				E228E8632543413A0075ED82 /* Chap3_01.c */,
 				E228E884254365950075ED82 /* Chap4_07.c */,
 				E228E881254365390075ED82 /* Chap4_06.c */,
 				E2BF8B1B2544D4F20066C8E2 /* Chap7_03.c */,
+				E24A8C7B254C321100FA75BB /* Chap8_05.c */,
 				E23076D025431C24002B0465 /* Chap1_01.c */,
+				E254E9442549F020003EB9F6 /* Chap8_03.c */,
 				E228E87E25434B080075ED82 /* Chap4_05.c */,
 				E228E88D254368070075ED82 /* Chap4_10.c */,
+				E24A8C93254C44B900FA75BB /* Chap8_13.c */,
 				E228E89625436B550075ED82 /* Chap5_03.c */,
+				E24A8C78254C305200FA75BB /* Chap8_04.c */,
+				E24A8C84254C36D300FA75BB /* Chap8_08.c */,
 				E2BF8B292544EC0F0066C8E2 /* Chap7_07.c */,
+				E24A8C8A254C3A2C00FA75BB /* Chap8_10.c */,
+				E24A8C96254C479100FA75BB /* Chap8_14.c */,
+				E24A8C90254C435200FA75BB /* Chap8_12.c */,
+				E24A8C7E254C32E500FA75BB /* Chap8_06.c */,
+				E29C02E62549EF13009C9963 /* Chap8_02.c */,
 				E2BF8B122544D1C70066C8E2 /* Chap6_13.c */,
+				E29C02E32549EE49009C9963 /* Chap8_01.c */,
+				E24A8C87254C37B800FA75BB /* Chap8_09.c */,
 				E2BF8B0C2544D0D60066C8E2 /* Chap6_11.c */,
+				E24A8C81254C364800FA75BB /* Chap8_07.c */,
 				E2BF8B1F2544D85D0066C8E2 /* Chap7_05.c */,
+				E29C02E02549E5E7009C9963 /* Chap7_13.c */,
+				E29C02D72549DB0C009C9963 /* Chap7_10.c */,
 				E2BF8B182544D44A0066C8E2 /* Chap7_02.c */,
 				E2BF8B262544EA880066C8E2 /* Chap7_06.c */,
+				E29C02DA2549E340009C9963 /* Chap7_11.c */,
 				E2BF8B222544D87C0066C8E2 /* Chap7_04.c */,
+				E29C02DD2549E447009C9963 /* Chap7_12.c */,
 				E2BF8B0F2544D14C0066C8E2 /* Chap6_12.c */,
 				E2BF8B152544D3660066C8E2 /* Chap7_01.c */,
+				E29C02D42549DA51009C9963 /* Chap7_09.c */,
+				E29C02D12549D969009C9963 /* Chap7_08.c */,
 				E2BF8B032544B8890066C8E2 /* Chap6_08.c */,
 				E2BF8AE22544A53F0066C8E2 /* Chap5_10.c */,
 				E2BF8AFA2544B3B90066C8E2 /* Chap6_05.c */,
@@ -479,7 +539,10 @@
 				E228E89A25436BDA0075ED82 /* Chap5_04.c in Sources */,
 				E29FF28624BDB0F4006C40D3 /* 백준1157.c in Sources */,
 				E228E88E254368070075ED82 /* Chap4_10.c in Sources */,
+				E29C02E12549E5E7009C9963 /* Chap7_13.c in Sources */,
+				E24A8C85254C36D300FA75BB /* Chap8_08.c in Sources */,
 				E22A5D4A24BE059B002F227B /* 백준2908.c in Sources */,
+				E24A8C8E254C3D5F00FA75BB /* Chap8_11.c in Sources */,
 				E29FF28824BDB8B6006C40D3 /* 백준1152.c in Sources */,
 				E2BF8AEC2544AD390066C8E2 /* Chap5_13.c in Sources */,
 				E23076E325431F48002B0465 /* Chap2_01.c in Sources */,
@@ -491,6 +554,8 @@
 				E22AD62824C0D99400A62A83 /* 백준2775.c in Sources */,
 				E2BF8AFB2544B3B90066C8E2 /* Chap6_05.c in Sources */,
 				E228E84F2543215C0075ED82 /* Chap2_04.c in Sources */,
+				E24A8C79254C305200FA75BB /* Chap8_04.c in Sources */,
+				E29C02E72549EF13009C9963 /* Chap8_02.c in Sources */,
 				E27B86A524FA4BAC00204018 /* 백준2822.c in Sources */,
 				E228E89425436AAA0075ED82 /* Chap5_02.c in Sources */,
 				E23076DD25431DE1002B0465 /* Chap1_05.c in Sources */,
@@ -499,7 +564,10 @@
 				E2BF8B072544B9C80066C8E2 /* Chap6_09.c in Sources */,
 				E23076E025431E5F002B0465 /* Chap1_06.c in Sources */,
 				E2A2DE55249CE043006FB1F8 /* p4.c in Sources */,
+				E24A8C82254C364800FA75BB /* Chap8_07.c in Sources */,
+				E29C02D22549D969009C9963 /* Chap7_08.c in Sources */,
 				E2A2DE51249CD492006FB1F8 /* p2.c in Sources */,
+				E24A8C88254C37B800FA75BB /* Chap8_09.c in Sources */,
 				E2BF8ADA2544A0F20066C8E2 /* Chap5_07.c in Sources */,
 				E228E852254321980075ED82 /* Chap2_05.c in Sources */,
 				E228E867254341850075ED82 /* Chap3_02.c in Sources */,
@@ -518,6 +586,7 @@
 				E228E88B2543670E0075ED82 /* Chap4_09.c in Sources */,
 				E2F51AAF249DFC9B0076EC8B /* exit.c in Sources */,
 				E228E870254343C50075ED82 /* Chap3_05.c in Sources */,
+				E24A8C8B254C3A2C00FA75BB /* Chap8_10.c in Sources */,
 				E2F51AA9249DFBD80076EC8B /* delete.c in Sources */,
 				E2B26D26252DB07B0084D877 /* Kinglog17.c in Sources */,
 				E2BF8B0D2544D0D60066C8E2 /* Chap6_11.c in Sources */,
@@ -525,7 +594,9 @@
 				E2BF8B162544D3660066C8E2 /* Chap7_01.c in Sources */,
 				E228E89725436B550075ED82 /* Chap5_03.c in Sources */,
 				E228E84925431FCB0075ED82 /* Chap2_02.c in Sources */,
+				E29C02E42549EE49009C9963 /* Chap8_01.c in Sources */,
 				E2F51AA5249DFB0E0076EC8B /* print.c in Sources */,
+				E24A8C7C254C321100FA75BB /* Chap8_05.c in Sources */,
 				E2BF8B192544D44A0066C8E2 /* Chap7_02.c in Sources */,
 				E2B26D23252DAF970084D877 /* Kinglog16.c in Sources */,
 				E228E858254323B70075ED82 /* Chap2_07.c in Sources */,
@@ -540,6 +611,7 @@
 				E2BF8AE92544AB560066C8E2 /* Chap5_12.c in Sources */,
 				E2BF8B272544EA880066C8E2 /* Chap7_06.c in Sources */,
 				E2BF8AE02544A31E0066C8E2 /* Chap5_09.c in Sources */,
+				E24A8C97254C479100FA75BB /* Chap8_14.c in Sources */,
 				E283C05C2528C28C0067DF35 /* Kinglog7.c in Sources */,
 				E290C6A425309B3D00F0CBFE /* Kinglog_BendingMachine.c in Sources */,
 				E2F51AAB249DFC1B0076EC8B /* search.c in Sources */,
@@ -547,6 +619,7 @@
 				E2BF8B042544B8890066C8E2 /* Chap6_08.c in Sources */,
 				E255E54124C21EEC00B322B5 /* 백준3190.c in Sources */,
 				E228E885254365950075ED82 /* Chap4_07.c in Sources */,
+				E29C02D82549DB0C009C9963 /* Chap7_10.c in Sources */,
 				E2B8870024BF4F160077D45A /* 백준2869.c in Sources */,
 				E27B86A324FA442400204018 /* 백준1010.c in Sources */,
 				E22AD63024C1B9BC00A62A83 /* 백준15624.c in Sources */,
@@ -562,10 +635,12 @@
 				E2BF8AD72544A01F0066C8E2 /* Chap5_06.c in Sources */,
 				E2BF8AF82544B2F80066C8E2 /* Chap6_04.c in Sources */,
 				E23076D125431C24002B0465 /* Chap1_01.c in Sources */,
+				E29C02DE2549E447009C9963 /* Chap7_12.c in Sources */,
 				E228E891254369A40075ED82 /* Chap5_01.c in Sources */,
 				E283C05F2528C2D00067DF35 /* Kinglog8.c in Sources */,
 				E228E882254365390075ED82 /* Chap4_06.c in Sources */,
 				E2BF8AF22544B1060066C8E2 /* Chap6_02.c in Sources */,
+				E24A8C91254C435200FA75BB /* Chap8_12.c in Sources */,
 				E228E876254345C90075ED82 /* Chap4_02.c in Sources */,
 				E2A2DE5A249CE76E006FB1F8 /* Project_step3.c in Sources */,
 				E2BF8AE62544A6970066C8E2 /* Chap5_11.c in Sources */,
@@ -573,6 +648,9 @@
 				E220456324BE414200101F58 /* 백준1316.c in Sources */,
 				E29D7B202525D31A0064168C /* Kinglog4.c in Sources */,
 				E2BF8B232544D87C0066C8E2 /* Chap7_04.c in Sources */,
+				E29C02DB2549E340009C9963 /* Chap7_11.c in Sources */,
+				E24A8C7F254C32E500FA75BB /* Chap8_06.c in Sources */,
+				E254E9452549F020003EB9F6 /* Chap8_03.c in Sources */,
 				E2DC795D2524AAFE0086765E /* Kinglog3.c in Sources */,
 				E2A2DE53249CD9A1006FB1F8 /* p3.c in Sources */,
 				E22AD62E24C1B82C00A62A83 /* 백준16673.c in Sources */,
@@ -581,6 +659,7 @@
 				E228E8642543413A0075ED82 /* Chap3_01.c in Sources */,
 				E228E86125432CB40075ED82 /* Chap2_10.c in Sources */,
 				E2BF8B2A2544EC0F0066C8E2 /* Chap7_07.c in Sources */,
+				E24A8C94254C44B900FA75BB /* Chap8_13.c in Sources */,
 				E220456724BE4F8400101F58 /* 백준2839.c in Sources */,
 				E21B40592529FD720019640A /* Kinglog11.c in Sources */,
 				E228E86D254343550075ED82 /* Chap3_04.c in Sources */,
@@ -591,6 +670,7 @@
 				E29D7B232525D42A0064168C /* Kinglog5.c in Sources */,
 				E2BF8AF52544B1760066C8E2 /* Chap6_03.c in Sources */,
 				E2BF8AE32544A53F0066C8E2 /* Chap5_10.c in Sources */,
+				E29C02D52549DA51009C9963 /* Chap7_09.c in Sources */,
 				E23076DA25431D97002B0465 /* Chap1_04.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
