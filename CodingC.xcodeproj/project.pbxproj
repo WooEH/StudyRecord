@@ -70,6 +70,21 @@
 		E24A8C91254C435200FA75BB /* Chap8_12.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C90254C435200FA75BB /* Chap8_12.c */; };
 		E24A8C94254C44B900FA75BB /* Chap8_13.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C93254C44B900FA75BB /* Chap8_13.c */; };
 		E24A8C97254C479100FA75BB /* Chap8_14.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C96254C479100FA75BB /* Chap8_14.c */; };
+		E24A8C9A254C4BC100FA75BB /* Chap9_01.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C99254C4BC100FA75BB /* Chap9_01.c */; };
+		E24A8C9D254C4E2900FA75BB /* Chap9_02.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C9C254C4E2900FA75BB /* Chap9_02.c */; };
+		E24A8CA0254C52CD00FA75BB /* Chap9_03.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8C9F254C52CD00FA75BB /* Chap9_03.c */; };
+		E24A8CA3254C538700FA75BB /* Chap9_04.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CA2254C538700FA75BB /* Chap9_04.c */; };
+		E24A8CA6254C554700FA75BB /* Chap9_05.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CA5254C554700FA75BB /* Chap9_05.c */; };
+		E24A8CA9254C569600FA75BB /* Chap9_06.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CA8254C569600FA75BB /* Chap9_06.c */; };
+		E24A8CAC254C58A500FA75BB /* Chap9_07.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CAB254C58A500FA75BB /* Chap9_07.c */; };
+		E24A8CAF254C599200FA75BB /* Chap9_08.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CAE254C599200FA75BB /* Chap9_08.c */; };
+		E24A8CB2254C9CE400FA75BB /* Chap9_09.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CB1254C9CE400FA75BB /* Chap9_09.c */; };
+		E24A8CB8254CA07300FA75BB /* Chap9_10.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CB7254CA07300FA75BB /* Chap9_10.c */; };
+		E24A8CBB254CAA2400FA75BB /* Chap9_11.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CBA254CAA2400FA75BB /* Chap9_11.c */; };
+		E24A8CBE254CAAFE00FA75BB /* Chap9_12.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CBD254CAAFE00FA75BB /* Chap9_12.c */; };
+		E24A8CC1254CACDD00FA75BB /* Chap9_13.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CC0254CACDD00FA75BB /* Chap9_13.c */; };
+		E24A8CC4254CAE9100FA75BB /* Chap9_14.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CC3254CAE9100FA75BB /* Chap9_14.c */; };
+		E24A8CC7254CB07D00FA75BB /* Chap9_15.c in Sources */ = {isa = PBXBuildFile; fileRef = E24A8CC6254CB07D00FA75BB /* Chap9_15.c */; };
 		E254E9452549F020003EB9F6 /* Chap8_03.c in Sources */ = {isa = PBXBuildFile; fileRef = E254E9442549F020003EB9F6 /* Chap8_03.c */; };
 		E255E54124C21EEC00B322B5 /* 백준3190.c in Sources */ = {isa = PBXBuildFile; fileRef = E255E54024C21EEC00B322B5 /* 백준3190.c */; };
 		E27B86A324FA442400204018 /* 백준1010.c in Sources */ = {isa = PBXBuildFile; fileRef = E27B86A224FA442400204018 /* 백준1010.c */; };
@@ -137,6 +152,19 @@
 		E2BF8B272544EA880066C8E2 /* Chap7_06.c in Sources */ = {isa = PBXBuildFile; fileRef = E2BF8B262544EA880066C8E2 /* Chap7_06.c */; };
 		E2BF8B2A2544EC0F0066C8E2 /* Chap7_07.c in Sources */ = {isa = PBXBuildFile; fileRef = E2BF8B292544EC0F0066C8E2 /* Chap7_07.c */; };
 		E2DC795D2524AAFE0086765E /* Kinglog3.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DC795C2524AAFE0086765E /* Kinglog3.c */; };
+		E2DFD288254DBE4A00298589 /* Chap10_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD287254DBE4A00298589 /* Chap10_1.c */; };
+		E2DFD28B254DCCF700298589 /* Chap10_2.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD28A254DCCF700298589 /* Chap10_2.c */; };
+		E2DFD28E254DCDF100298589 /* Chap10_03.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD28D254DCDF100298589 /* Chap10_03.c */; };
+		E2DFD291254DCEDA00298589 /* Chap10_04.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD290254DCEDA00298589 /* Chap10_04.c */; };
+		E2DFD294254DD03800298589 /* Chap10_05.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD293254DD03800298589 /* Chap10_05.c */; };
+		E2DFD297254DE2BF00298589 /* Chap10_06.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD296254DE2BF00298589 /* Chap10_06.c */; };
+		E2DFD29A254DFC2700298589 /* Chap10_07.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD299254DFC2700298589 /* Chap10_07.c */; };
+		E2DFD29D254DFF6A00298589 /* Chap10_08.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD29C254DFF6A00298589 /* Chap10_08.c */; };
+		E2DFD2A0254E01EB00298589 /* Chap10_09.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD29F254E01EB00298589 /* Chap10_09.c */; };
+		E2DFD2A3254E044600298589 /* Chap10_10.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD2A2254E044600298589 /* Chap10_10.c */; };
+		E2DFD2A6254E065A00298589 /* Chap10_11.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD2A5254E065A00298589 /* Chap10_11.c */; };
+		E2DFD2A9254E088600298589 /* Chap10_12.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD2A8254E088600298589 /* Chap10_12.c */; };
+		E2DFD2AC254E0CB700298589 /* Chap11_01.c in Sources */ = {isa = PBXBuildFile; fileRef = E2DFD2AB254E0CB700298589 /* Chap11_01.c */; };
 		E2F51AA5249DFB0E0076EC8B /* print.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA4249DFB0E0076EC8B /* print.c */; };
 		E2F51AA7249DFB970076EC8B /* insert.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA6249DFB970076EC8B /* insert.c */; };
 		E2F51AA9249DFBD80076EC8B /* delete.c in Sources */ = {isa = PBXBuildFile; fileRef = E2F51AA8249DFBD80076EC8B /* delete.c */; };
@@ -223,6 +251,21 @@
 		E24A8C90254C435200FA75BB /* Chap8_12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_12.c; sourceTree = "<group>"; };
 		E24A8C93254C44B900FA75BB /* Chap8_13.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_13.c; sourceTree = "<group>"; };
 		E24A8C96254C479100FA75BB /* Chap8_14.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_14.c; sourceTree = "<group>"; };
+		E24A8C99254C4BC100FA75BB /* Chap9_01.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_01.c; sourceTree = "<group>"; };
+		E24A8C9C254C4E2900FA75BB /* Chap9_02.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_02.c; sourceTree = "<group>"; };
+		E24A8C9F254C52CD00FA75BB /* Chap9_03.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_03.c; sourceTree = "<group>"; };
+		E24A8CA2254C538700FA75BB /* Chap9_04.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_04.c; sourceTree = "<group>"; };
+		E24A8CA5254C554700FA75BB /* Chap9_05.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_05.c; sourceTree = "<group>"; };
+		E24A8CA8254C569600FA75BB /* Chap9_06.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_06.c; sourceTree = "<group>"; };
+		E24A8CAB254C58A500FA75BB /* Chap9_07.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_07.c; sourceTree = "<group>"; };
+		E24A8CAE254C599200FA75BB /* Chap9_08.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_08.c; sourceTree = "<group>"; };
+		E24A8CB1254C9CE400FA75BB /* Chap9_09.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_09.c; sourceTree = "<group>"; };
+		E24A8CB7254CA07300FA75BB /* Chap9_10.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_10.c; sourceTree = "<group>"; };
+		E24A8CBA254CAA2400FA75BB /* Chap9_11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_11.c; sourceTree = "<group>"; };
+		E24A8CBD254CAAFE00FA75BB /* Chap9_12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_12.c; sourceTree = "<group>"; };
+		E24A8CC0254CACDD00FA75BB /* Chap9_13.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_13.c; sourceTree = "<group>"; };
+		E24A8CC3254CAE9100FA75BB /* Chap9_14.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_14.c; sourceTree = "<group>"; };
+		E24A8CC6254CB07D00FA75BB /* Chap9_15.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap9_15.c; sourceTree = "<group>"; };
 		E254E9442549F020003EB9F6 /* Chap8_03.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap8_03.c; sourceTree = "<group>"; };
 		E255E54024C21EEC00B322B5 /* 백준3190.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준3190.c"; sourceTree = "<group>"; };
 		E27B86A224FA442400204018 /* 백준1010.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "백준1010.c"; sourceTree = "<group>"; };
@@ -291,6 +334,19 @@
 		E2BF8B292544EC0F0066C8E2 /* Chap7_07.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap7_07.c; sourceTree = "<group>"; };
 		E2CF6297249A8627005FCF6C /* CodingC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingC; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DC795C2524AAFE0086765E /* Kinglog3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Kinglog3.c; sourceTree = "<group>"; };
+		E2DFD287254DBE4A00298589 /* Chap10_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_1.c; sourceTree = "<group>"; };
+		E2DFD28A254DCCF700298589 /* Chap10_2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_2.c; sourceTree = "<group>"; };
+		E2DFD28D254DCDF100298589 /* Chap10_03.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_03.c; sourceTree = "<group>"; };
+		E2DFD290254DCEDA00298589 /* Chap10_04.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_04.c; sourceTree = "<group>"; };
+		E2DFD293254DD03800298589 /* Chap10_05.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_05.c; sourceTree = "<group>"; };
+		E2DFD296254DE2BF00298589 /* Chap10_06.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_06.c; sourceTree = "<group>"; };
+		E2DFD299254DFC2700298589 /* Chap10_07.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_07.c; sourceTree = "<group>"; };
+		E2DFD29C254DFF6A00298589 /* Chap10_08.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_08.c; sourceTree = "<group>"; };
+		E2DFD29F254E01EB00298589 /* Chap10_09.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_09.c; sourceTree = "<group>"; };
+		E2DFD2A2254E044600298589 /* Chap10_10.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_10.c; sourceTree = "<group>"; };
+		E2DFD2A5254E065A00298589 /* Chap10_11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_11.c; sourceTree = "<group>"; };
+		E2DFD2A8254E088600298589 /* Chap10_12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap10_12.c; sourceTree = "<group>"; };
+		E2DFD2AB254E0CB700298589 /* Chap11_01.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Chap11_01.c; sourceTree = "<group>"; };
 		E2F51AA0249DF5EC0076EC8B /* my_struct.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = my_struct.h; sourceTree = "<group>"; };
 		E2F51AA1249DF6000076EC8B /* my_header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = my_header.h; sourceTree = "<group>"; };
 		E2F51AA4249DFB0E0076EC8B /* print.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = print.c; sourceTree = "<group>"; };
@@ -351,15 +407,34 @@
 				E228E857254323B70075ED82 /* Chap2_07.c */,
 				E23076DC25431DE1002B0465 /* Chap1_05.c */,
 				E24A8C8D254C3D5F00FA75BB /* Chap8_11.c */,
+				E2DFD29F254E01EB00298589 /* Chap10_09.c */,
+				E2DFD2A5254E065A00298589 /* Chap10_11.c */,
+				E24A8CBA254CAA2400FA75BB /* Chap9_11.c */,
 				E228E86F254343C50075ED82 /* Chap3_05.c */,
+				E2DFD2A8254E088600298589 /* Chap10_12.c */,
+				E2DFD29C254DFF6A00298589 /* Chap10_08.c */,
 				E228E8632543413A0075ED82 /* Chap3_01.c */,
+				E2DFD2AB254E0CB700298589 /* Chap11_01.c */,
 				E228E884254365950075ED82 /* Chap4_07.c */,
+				E2DFD290254DCEDA00298589 /* Chap10_04.c */,
+				E2DFD28A254DCCF700298589 /* Chap10_2.c */,
+				E24A8CB7254CA07300FA75BB /* Chap9_10.c */,
 				E228E881254365390075ED82 /* Chap4_06.c */,
+				E2DFD296254DE2BF00298589 /* Chap10_06.c */,
+				E2DFD2A2254E044600298589 /* Chap10_10.c */,
+				E2DFD299254DFC2700298589 /* Chap10_07.c */,
+				E2DFD28D254DCDF100298589 /* Chap10_03.c */,
+				E2DFD293254DD03800298589 /* Chap10_05.c */,
+				E24A8CC0254CACDD00FA75BB /* Chap9_13.c */,
 				E2BF8B1B2544D4F20066C8E2 /* Chap7_03.c */,
 				E24A8C7B254C321100FA75BB /* Chap8_05.c */,
 				E23076D025431C24002B0465 /* Chap1_01.c */,
+				E2DFD287254DBE4A00298589 /* Chap10_1.c */,
 				E254E9442549F020003EB9F6 /* Chap8_03.c */,
+				E24A8CC3254CAE9100FA75BB /* Chap9_14.c */,
 				E228E87E25434B080075ED82 /* Chap4_05.c */,
+				E24A8CBD254CAAFE00FA75BB /* Chap9_12.c */,
+				E24A8CC6254CB07D00FA75BB /* Chap9_15.c */,
 				E228E88D254368070075ED82 /* Chap4_10.c */,
 				E24A8C93254C44B900FA75BB /* Chap8_13.c */,
 				E228E89625436B550075ED82 /* Chap5_03.c */,
@@ -368,18 +443,27 @@
 				E2BF8B292544EC0F0066C8E2 /* Chap7_07.c */,
 				E24A8C8A254C3A2C00FA75BB /* Chap8_10.c */,
 				E24A8C96254C479100FA75BB /* Chap8_14.c */,
+				E24A8CAE254C599200FA75BB /* Chap9_08.c */,
 				E24A8C90254C435200FA75BB /* Chap8_12.c */,
 				E24A8C7E254C32E500FA75BB /* Chap8_06.c */,
+				E24A8CB1254C9CE400FA75BB /* Chap9_09.c */,
 				E29C02E62549EF13009C9963 /* Chap8_02.c */,
+				E24A8CA2254C538700FA75BB /* Chap9_04.c */,
 				E2BF8B122544D1C70066C8E2 /* Chap6_13.c */,
+				E24A8C99254C4BC100FA75BB /* Chap9_01.c */,
 				E29C02E32549EE49009C9963 /* Chap8_01.c */,
 				E24A8C87254C37B800FA75BB /* Chap8_09.c */,
 				E2BF8B0C2544D0D60066C8E2 /* Chap6_11.c */,
+				E24A8CA5254C554700FA75BB /* Chap9_05.c */,
 				E24A8C81254C364800FA75BB /* Chap8_07.c */,
+				E24A8C9C254C4E2900FA75BB /* Chap9_02.c */,
 				E2BF8B1F2544D85D0066C8E2 /* Chap7_05.c */,
+				E24A8C9F254C52CD00FA75BB /* Chap9_03.c */,
 				E29C02E02549E5E7009C9963 /* Chap7_13.c */,
+				E24A8CAB254C58A500FA75BB /* Chap9_07.c */,
 				E29C02D72549DB0C009C9963 /* Chap7_10.c */,
 				E2BF8B182544D44A0066C8E2 /* Chap7_02.c */,
+				E24A8CA8254C569600FA75BB /* Chap9_06.c */,
 				E2BF8B262544EA880066C8E2 /* Chap7_06.c */,
 				E29C02DA2549E340009C9963 /* Chap7_11.c */,
 				E2BF8B222544D87C0066C8E2 /* Chap7_04.c */,
@@ -537,40 +621,51 @@
 				E2940F42252CF94600DBF379 /* Kinglog14.c in Sources */,
 				E29FF28024BDA7C2006C40D3 /* 백준11720.c in Sources */,
 				E228E89A25436BDA0075ED82 /* Chap5_04.c in Sources */,
+				E2DFD28B254DCCF700298589 /* Chap10_2.c in Sources */,
 				E29FF28624BDB0F4006C40D3 /* 백준1157.c in Sources */,
+				E2DFD294254DD03800298589 /* Chap10_05.c in Sources */,
+				E24A8CC4254CAE9100FA75BB /* Chap9_14.c in Sources */,
 				E228E88E254368070075ED82 /* Chap4_10.c in Sources */,
 				E29C02E12549E5E7009C9963 /* Chap7_13.c in Sources */,
 				E24A8C85254C36D300FA75BB /* Chap8_08.c in Sources */,
 				E22A5D4A24BE059B002F227B /* 백준2908.c in Sources */,
 				E24A8C8E254C3D5F00FA75BB /* Chap8_11.c in Sources */,
 				E29FF28824BDB8B6006C40D3 /* 백준1152.c in Sources */,
+				E24A8CC1254CACDD00FA75BB /* Chap9_13.c in Sources */,
 				E2BF8AEC2544AD390066C8E2 /* Chap5_13.c in Sources */,
 				E23076E325431F48002B0465 /* Chap2_01.c in Sources */,
 				E2B8870224BF59600077D45A /* 백준10250.c in Sources */,
+				E24A8C9D254C4E2900FA75BB /* Chap9_02.c in Sources */,
 				E2F51AB3249DFCFB0076EC8B /* draw.c in Sources */,
+				E2DFD291254DCEDA00298589 /* Chap10_04.c in Sources */,
 				E23076D725431D03002B0465 /* Chap1_03.c in Sources */,
 				E2F51AAD249DFC650076EC8B /* registreation.c in Sources */,
 				E2F51AA7249DFB970076EC8B /* insert.c in Sources */,
+				E24A8CA0254C52CD00FA75BB /* Chap9_03.c in Sources */,
 				E22AD62824C0D99400A62A83 /* 백준2775.c in Sources */,
 				E2BF8AFB2544B3B90066C8E2 /* Chap6_05.c in Sources */,
 				E228E84F2543215C0075ED82 /* Chap2_04.c in Sources */,
+				E2DFD288254DBE4A00298589 /* Chap10_1.c in Sources */,
 				E24A8C79254C305200FA75BB /* Chap8_04.c in Sources */,
 				E29C02E72549EF13009C9963 /* Chap8_02.c in Sources */,
 				E27B86A524FA4BAC00204018 /* 백준2822.c in Sources */,
 				E228E89425436AAA0075ED82 /* Chap5_02.c in Sources */,
 				E23076DD25431DE1002B0465 /* Chap1_05.c in Sources */,
+				E24A8CA3254C538700FA75BB /* Chap9_04.c in Sources */,
 				E228E888254366AA0075ED82 /* Chap4_08.c in Sources */,
 				E2BF8AEF2544AE160066C8E2 /* Chap6_01.c in Sources */,
 				E2BF8B072544B9C80066C8E2 /* Chap6_09.c in Sources */,
 				E23076E025431E5F002B0465 /* Chap1_06.c in Sources */,
 				E2A2DE55249CE043006FB1F8 /* p4.c in Sources */,
 				E24A8C82254C364800FA75BB /* Chap8_07.c in Sources */,
+				E2DFD2A9254E088600298589 /* Chap10_12.c in Sources */,
 				E29C02D22549D969009C9963 /* Chap7_08.c in Sources */,
 				E2A2DE51249CD492006FB1F8 /* p2.c in Sources */,
 				E24A8C88254C37B800FA75BB /* Chap8_09.c in Sources */,
 				E2BF8ADA2544A0F20066C8E2 /* Chap5_07.c in Sources */,
 				E228E852254321980075ED82 /* Chap2_05.c in Sources */,
 				E228E867254341850075ED82 /* Chap3_02.c in Sources */,
+				E24A8CB8254CA07300FA75BB /* Chap9_10.c in Sources */,
 				E29FF28224BDAC54006C40D3 /* 백준10809.c in Sources */,
 				E22AD62A24C0DD2800A62A83 /* 백준1011.c in Sources */,
 				E21B40562529FB440019640A /* Kinglog10.c in Sources */,
@@ -587,26 +682,36 @@
 				E2F51AAF249DFC9B0076EC8B /* exit.c in Sources */,
 				E228E870254343C50075ED82 /* Chap3_05.c in Sources */,
 				E24A8C8B254C3A2C00FA75BB /* Chap8_10.c in Sources */,
+				E2DFD29A254DFC2700298589 /* Chap10_07.c in Sources */,
 				E2F51AA9249DFBD80076EC8B /* delete.c in Sources */,
 				E2B26D26252DB07B0084D877 /* Kinglog17.c in Sources */,
 				E2BF8B0D2544D0D60066C8E2 /* Chap6_11.c in Sources */,
 				E2BF8B1C2544D4F20066C8E2 /* Chap7_03.c in Sources */,
 				E2BF8B162544D3660066C8E2 /* Chap7_01.c in Sources */,
 				E228E89725436B550075ED82 /* Chap5_03.c in Sources */,
+				E24A8CBB254CAA2400FA75BB /* Chap9_11.c in Sources */,
 				E228E84925431FCB0075ED82 /* Chap2_02.c in Sources */,
 				E29C02E42549EE49009C9963 /* Chap8_01.c in Sources */,
 				E2F51AA5249DFB0E0076EC8B /* print.c in Sources */,
 				E24A8C7C254C321100FA75BB /* Chap8_05.c in Sources */,
+				E24A8CA6254C554700FA75BB /* Chap9_05.c in Sources */,
 				E2BF8B192544D44A0066C8E2 /* Chap7_02.c in Sources */,
 				E2B26D23252DAF970084D877 /* Kinglog16.c in Sources */,
+				E2DFD2A6254E065A00298589 /* Chap10_11.c in Sources */,
+				E24A8CB2254C9CE400FA75BB /* Chap9_09.c in Sources */,
+				E24A8CA9254C569600FA75BB /* Chap9_06.c in Sources */,
+				E2DFD297254DE2BF00298589 /* Chap10_06.c in Sources */,
 				E228E858254323B70075ED82 /* Chap2_07.c in Sources */,
 				E220456524BE46E100101F58 /* 백준1712.c in Sources */,
 				E23076D425431C77002B0465 /* Chap1_02.c in Sources */,
 				E2940F45252CFB7200DBF379 /* Kinglog15.c in Sources */,
 				E228E84C2543203B0075ED82 /* Chap2_03.c in Sources */,
+				E2DFD2AC254E0CB700298589 /* Chap11_01.c in Sources */,
 				E228E89E25436C700075ED82 /* Chap5_05.c in Sources */,
 				E2BF8B012544B7DC0066C8E2 /* Chap6_07.c in Sources */,
+				E2DFD2A3254E044600298589 /* Chap10_10.c in Sources */,
 				E2F51AB1249DFCC10076EC8B /* main.c in Sources */,
+				E24A8CAC254C58A500FA75BB /* Chap9_07.c in Sources */,
 				E29FF28424BDAC75006C40D3 /* 백준2675.c in Sources */,
 				E2BF8AE92544AB560066C8E2 /* Chap5_12.c in Sources */,
 				E2BF8B272544EA880066C8E2 /* Chap7_06.c in Sources */,
@@ -621,11 +726,15 @@
 				E228E885254365950075ED82 /* Chap4_07.c in Sources */,
 				E29C02D82549DB0C009C9963 /* Chap7_10.c in Sources */,
 				E2B8870024BF4F160077D45A /* 백준2869.c in Sources */,
+				E24A8CAF254C599200FA75BB /* Chap9_08.c in Sources */,
 				E27B86A324FA442400204018 /* 백준1010.c in Sources */,
 				E22AD63024C1B9BC00A62A83 /* 백준15624.c in Sources */,
+				E2DFD28E254DCDF100298589 /* Chap10_03.c in Sources */,
 				E2403A7225232CE4000591D6 /* Kinglog1.c in Sources */,
+				E2DFD2A0254E01EB00298589 /* Chap10_09.c in Sources */,
 				E21DC148252B69DB00715CEA /* Kinglog13.c in Sources */,
 				E2BF8B132544D1C70066C8E2 /* Chap6_13.c in Sources */,
+				E24A8CC7254CB07D00FA75BB /* Chap9_15.c in Sources */,
 				E2BF8ADD2544A2580066C8E2 /* Chap5_08.c in Sources */,
 				E29FF27E24BDA5BC006C40D3 /* 백준11654.c in Sources */,
 				E22A5D4C24BE06E4002F227B /* 백준5622.c in Sources */,
@@ -648,12 +757,15 @@
 				E220456324BE414200101F58 /* 백준1316.c in Sources */,
 				E29D7B202525D31A0064168C /* Kinglog4.c in Sources */,
 				E2BF8B232544D87C0066C8E2 /* Chap7_04.c in Sources */,
+				E24A8C9A254C4BC100FA75BB /* Chap9_01.c in Sources */,
 				E29C02DB2549E340009C9963 /* Chap7_11.c in Sources */,
 				E24A8C7F254C32E500FA75BB /* Chap8_06.c in Sources */,
 				E254E9452549F020003EB9F6 /* Chap8_03.c in Sources */,
+				E24A8CBE254CAAFE00FA75BB /* Chap9_12.c in Sources */,
 				E2DC795D2524AAFE0086765E /* Kinglog3.c in Sources */,
 				E2A2DE53249CD9A1006FB1F8 /* p3.c in Sources */,
 				E22AD62E24C1B82C00A62A83 /* 백준16673.c in Sources */,
+				E2DFD29D254DFF6A00298589 /* Chap10_08.c in Sources */,
 				E228E85E2543250D0075ED82 /* Chap2_09.c in Sources */,
 				E228E86A254342BD0075ED82 /* Chap3_03.c in Sources */,
 				E228E8642543413A0075ED82 /* Chap3_01.c in Sources */,
